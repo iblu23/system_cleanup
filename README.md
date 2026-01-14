@@ -1,4 +1,4 @@
-# Ultimate File Organizer
+# File Organizer
 
 ## Short Description
 🧹 Advanced Python system for removing duplicates, cleaning up files, and organizing data with intelligent strategies and real-time monitoring - now unified in a single powerful tool.
@@ -53,7 +53,7 @@ A comprehensive Python toolkit designed to tackle file and data duplication, sys
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/iblu23/system_cleanup/
 cd hexstrike-ai
 
 # Install dependencies (if needed)
